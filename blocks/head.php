@@ -8,6 +8,7 @@
 	<link href="css/block_categories.css" type="text/css" rel="stylesheet" />
 	<link href="css/face.css" type="text/css" rel="stylesheet" />
 	<link href="css/footer.css" type="text/css" rel="stylesheet" />
+	<link href="css/modal.css" type="text/css" rel="stylesheet" />
 	<script type="text/javascript" src="jquery-3.2.1.min.js"></script>
 	<title>Begi Парфюмер</title>
 </head>

@@ -31,6 +31,8 @@ footer{
 .brands{
 	display:table;
 	margin:0 auto;
+	text-align:center;
+	/* height:40px; */
 }
 footer li{
 	display:inline-table;
